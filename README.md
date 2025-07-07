@@ -1,4 +1,4 @@
-# Highly Available Web Application on AWS with Terraform
+# End-to-End Application Deployment on AWS (EC2, RDS, Load Balancer)
 
 This project provides a complete Terraform configuration to deploy a highly available web application on AWS. The architecture includes a VPC with public and private subnets, EC2 instances in an Auto Scaling Group behind an Application Load Balancer (ALB), and a highly available RDS MySQL database in private subnets. Security groups are tightly configured to allow only necessary traffic. All critical outputs such as ALB DNS, EC2 instance IPs, and the RDS endpoint are provided.
 
