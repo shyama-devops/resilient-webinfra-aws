@@ -128,7 +128,8 @@ Type `yes` to confirm.
 
 ```
 .
-├── main.tf         # Main Terraform configuration (all resources)
+├── Terraform
+   ├── main.tf     
 ├── README.md       # Project documentation
 ```
 
