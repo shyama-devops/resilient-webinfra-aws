@@ -71,8 +71,8 @@ This project provides a complete Terraform configuration to deploy a highly avai
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-org>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/shyama-devops/resilient-webinfra-aws.git
+cd resilient-webinfra-aws
 ```
 
 ### 2. Initialize Terraform
